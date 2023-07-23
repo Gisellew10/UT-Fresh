@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">UT Fresh</string>
+    <string name="store_name">Store Name</string>
+    <string name="product_list">Product List</string>
+    <string name="add_new_products">Add New Store Products</string>
+    <string name="home">HOME</string>
+    <string name="orders">ORDERS</string>
+    <string name="setting">SETTING</string>
+    <string name="username">Enter username</string>
+    <string name="password">Enter password</string>
+    <string name="title_add_new">Add New Store Products</string>
+    <string name="product_name">Product Name</string>
+    <string name="price">Price</string>
+    <string name="category">Category</string>
+    <string name="product_picture">Product Picture</string>
+    <string name="save">SAVE</string>
+    <string name="edit_product_name">Enter a product name</string>
+    <string name="edit_price">Enter a price</string>
+    <string name="edit_category">Enter a category</string>
+    <string name="all_orders">All Orders</string>
+    <string name="ready_for_pick_up">Ready For Pick Up</string>
+    <string name="pending">Pending</string>
+    <string name="complete">Complete</string>
+    <string name="order_status">Order Status</string>
+    <string name="email">Enter email</string>
+    <string name="remember">Remember Me</string>
+    <string name="update_button">UPDATE</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="Checkout">Checkout</string>
+    <string-array name="status">
+        <item>Read for Pick Up</item>
+        <item>Pending</item>
+        <item>Complete</item>
+    </string-array>
+    <string name="profile">Profile</string>
+    <string name="stores_database">Data</string>
+    <string name="users_database">Users</string>
+</resources>
